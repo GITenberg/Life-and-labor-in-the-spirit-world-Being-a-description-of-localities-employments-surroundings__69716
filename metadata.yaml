@@ -1,11 +1,16 @@
 _repo: Life-and-labor-in-the-spirit-world-Being-a-description-of-localities-employments-surroundings__69716
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69716-h/images/cover.jpg
 creator:
   author:
     agent_name: Longley, Mary T.
     gutenberg_agent_id: '55385'
     url: http://www.gutenberg.org/2009/agents/55385
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69716#Life-and-labor-in-the-spirit-world-Being-a-description-of-localities-employments-surroundings_
 gutenberg_issued: '2023-01-05'
 identifiers:
   gutenberg: '69716'
